@@ -1,5 +1,4 @@
-<a id="theiconlibraryproject" href="#theiconlibraryproject"><img alt="alt text" src="https://github.com/user-attachments/assets/515088fd-9fe9-4800-b38c-87e695137283" /></a>
-<br/>
+
 # Welcome to The Icon Library Project
 Github home of **The Icon Library Project's** Free Resource for CFX's [**FiveM**](https://forum.cfx.re/t/free-1300-fivem-lore-friendly-optimized-inventory-images/5220858) and [**RedM**](https://forum.cfx.re/t/free-2000-redm-optimized-inventory-images-updated-frequently/5237259) modded roleplay servers. 
 <br/>
